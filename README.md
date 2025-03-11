@@ -46,7 +46,7 @@ HUGGINGFACE_API_KEY=your_api_key
 
 ### 5. **Start the Server:**
 ```bash
-npm index.js
+node index.js
 ```
 
 ### 6. **Open the app:**
